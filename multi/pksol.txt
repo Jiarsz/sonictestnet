@@ -1,0 +1,2 @@
+isi privatekey mu disini
+gunakan garis baru/enter setiap privatekey
