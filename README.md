@@ -1,7 +1,7 @@
 # Sonic Testnet
 # Auto Tx Sol Random Address
 ![airdrop-family-idn](https://github.com/AirDropFamilyIDN/sonictestnet/assets/26495822/039d6635-2067-456b-8e3c-25fc25efa2e9)
-# how to run
+# how to run sigle account
 ```
 git clone https://github.com/AirDropFamilyIDN/sonictestnet.git
 ```
@@ -14,7 +14,29 @@ pip install requests
 ```
 pip install solathon==0.1.8
 ```
-
+```
+python txsol.py
+```
+# how to run multi account
+```
+git clone https://github.com/AirDropFamilyIDN/sonictestnet.git
+```
+```
+cd sonictestnet
+```
+```
+cd multi
+```
+```
+pip install requests
+```
+```
+pip install solathon==0.1.8
+```
+```
+python multi.py
+```
+- edit file pksol.txt isi privatekey sol mu
 
 # how to edit client.py
 - Win+r
