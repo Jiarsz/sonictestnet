@@ -1,0 +1,2 @@
+# sonictestnet
+auto tx sol
