@@ -34,6 +34,9 @@ pip install requests
 pip install solathon==0.1.8
 ```
 ```
+pip install base58
+```
+```
 python multi.py
 ```
 - edit file pksol.txt isi privatekey sol mu
